@@ -23,4 +23,9 @@ It was originally developed by **Siebe Bosch (Hydroconsult)**. I did not create 
 ## License
 The original author did not provide a license. If you are the author and would like this repository removed or updated with a license, please contact me.
 
-images/start_screen.png
+## Screenshot
+
+Here’s what the Excel tool looks like:
+
+![Start screen of Excel2SOBEK](start_screen.png)
+
